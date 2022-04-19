@@ -72,6 +72,7 @@ function resetAll() {
   operatorValue = '';
   awaitingNextValue = false;
   calculatorDisplay.textContent = '0';
+  
 }
 
 function onloadText() {
